@@ -1,0 +1,8 @@
+C:\Users\dave.cowart\Documents\Visual Studio 2010\Projects\BrowserOverride\BrowserOverride\bin\Release\BrowserOverride.exe.config
+C:\Users\dave.cowart\Documents\Visual Studio 2010\Projects\BrowserOverride\BrowserOverride\bin\Release\BrowserOverride.exe
+C:\Users\dave.cowart\Documents\Visual Studio 2010\Projects\BrowserOverride\BrowserOverride\bin\Release\BrowserOverride.pdb
+C:\Users\dave.cowart\Documents\Visual Studio 2010\Projects\BrowserOverride\BrowserOverride\bin\Release\IPlugin.dll
+C:\Users\dave.cowart\Documents\Visual Studio 2010\Projects\BrowserOverride\BrowserOverride\bin\Release\IPlugin.pdb
+C:\Users\dave.cowart\Documents\Visual Studio 2010\Projects\BrowserOverride\BrowserOverride\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\dave.cowart\Documents\Visual Studio 2010\Projects\BrowserOverride\BrowserOverride\obj\x86\Release\BrowserOverride.exe
+C:\Users\dave.cowart\Documents\Visual Studio 2010\Projects\BrowserOverride\BrowserOverride\obj\x86\Release\BrowserOverride.pdb

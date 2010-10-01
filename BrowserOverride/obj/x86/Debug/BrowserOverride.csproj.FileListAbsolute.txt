@@ -1,0 +1,15 @@
+C:\Projects\BrowserOverride\BrowserOverride\bin\Debug\BrowserOverride.exe
+C:\Projects\BrowserOverride\BrowserOverride\bin\Debug\BrowserOverride.pdb
+C:\Projects\BrowserOverride\BrowserOverride\bin\Debug\Newtonsoft.Json.Net20.dll
+C:\Projects\BrowserOverride\BrowserOverride\bin\Debug\Newtonsoft.Json.Net20.xml
+C:\Projects\BrowserOverride\BrowserOverride\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Projects\BrowserOverride\BrowserOverride\obj\x86\Debug\BrowserOverride.exe
+C:\Projects\BrowserOverride\BrowserOverride\obj\x86\Debug\BrowserOverride.pdb
+C:\Users\dave.cowart\Documents\Visual Studio 2010\Projects\BrowserOverride\BrowserOverride\obj\x86\Debug\BrowserOverride.exe
+C:\Users\dave.cowart\Documents\Visual Studio 2010\Projects\BrowserOverride\BrowserOverride\obj\x86\Debug\BrowserOverride.pdb
+C:\Users\dave.cowart\Documents\Visual Studio 2010\Projects\BrowserOverride\BrowserOverride\bin\Debug\BrowserOverride.exe
+C:\Users\dave.cowart\Documents\Visual Studio 2010\Projects\BrowserOverride\BrowserOverride\bin\Debug\BrowserOverride.pdb
+C:\Users\dave.cowart\Documents\Visual Studio 2010\Projects\BrowserOverride\BrowserOverride\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dave.cowart\Documents\Visual Studio 2010\Projects\BrowserOverride\BrowserOverride\bin\Debug\BrowserOverride.exe.config
+C:\Users\dave.cowart\Documents\Visual Studio 2010\Projects\BrowserOverride\BrowserOverride\bin\Debug\IPlugin.dll
+C:\Users\dave.cowart\Documents\Visual Studio 2010\Projects\BrowserOverride\BrowserOverride\bin\Debug\IPlugin.pdb

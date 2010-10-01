@@ -1,0 +1,9 @@
+C:\Users\dave.cowart\Documents\Visual Studio 2010\Projects\BrowserOverride\StockPlugins\bin\Release\StockPlugins.dll
+C:\Users\dave.cowart\Documents\Visual Studio 2010\Projects\BrowserOverride\StockPlugins\bin\Release\StockPlugins.pdb
+C:\Users\dave.cowart\Documents\Visual Studio 2010\Projects\BrowserOverride\StockPlugins\bin\Release\IPlugin.dll
+C:\Users\dave.cowart\Documents\Visual Studio 2010\Projects\BrowserOverride\StockPlugins\bin\Release\Newtonsoft.Json.Net20.dll
+C:\Users\dave.cowart\Documents\Visual Studio 2010\Projects\BrowserOverride\StockPlugins\bin\Release\IPlugin.pdb
+C:\Users\dave.cowart\Documents\Visual Studio 2010\Projects\BrowserOverride\StockPlugins\bin\Release\Newtonsoft.Json.Net20.xml
+C:\Users\dave.cowart\Documents\Visual Studio 2010\Projects\BrowserOverride\StockPlugins\obj\Release\ResolveAssemblyReference.cache
+C:\Users\dave.cowart\Documents\Visual Studio 2010\Projects\BrowserOverride\StockPlugins\obj\Release\StockPlugins.dll
+C:\Users\dave.cowart\Documents\Visual Studio 2010\Projects\BrowserOverride\StockPlugins\obj\Release\StockPlugins.pdb

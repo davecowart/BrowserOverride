@@ -1,0 +1,5 @@
+C:\Users\dave.cowart\Documents\Visual Studio 2010\Projects\BrowserOverride\IPlugin\bin\Debug\IPlugin.dll
+C:\Users\dave.cowart\Documents\Visual Studio 2010\Projects\BrowserOverride\IPlugin\bin\Debug\IPlugin.pdb
+C:\Users\dave.cowart\Documents\Visual Studio 2010\Projects\BrowserOverride\IPlugin\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dave.cowart\Documents\Visual Studio 2010\Projects\BrowserOverride\IPlugin\obj\Debug\IPlugin.dll
+C:\Users\dave.cowart\Documents\Visual Studio 2010\Projects\BrowserOverride\IPlugin\obj\Debug\IPlugin.pdb
